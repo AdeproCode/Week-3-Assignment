@@ -17,7 +17,7 @@ favoriteQuote= favoriteQuote.toLocaleUpperCase();
 console.log(favoriteQuote)
 
 favoriteQuote= favoriteQuote.toLocaleLowerCase();
-console.log(favoriteQuote)
+console.log(favoriteQuote)  
 
 
 //Answer to question three
